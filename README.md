@@ -23,7 +23,7 @@ Blossoming is a Flutter-based mobile app designed to capture and manage images w
    - Provide options to clear the current image and metadata.
    - Ensure that the image and metadata fields are reset when required.
 
-5. **Timed Cadence (if implemented):**
+5. **Timed Cadence:**
    - Automatically capture images at a timed interval (e.g., one image per second) using the device’s camera.
    - This feature would require additional setup for handling periodic tasks and capturing images in the background.
 
